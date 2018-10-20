@@ -29,7 +29,7 @@ if (isMobile) {
         },
         function() {
             $('#tag').fadeOut(200, function() {
-                $(this).text("@philipxjm").fadeIn(200);
+                $(this).text("@Keshav-cs").fadeIn(200);
             });
         }
     );
