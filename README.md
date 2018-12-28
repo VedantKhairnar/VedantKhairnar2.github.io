@@ -1,8 +1,7 @@
 # Keshav-cs.github.io
 ======================
 
-Github repo for Keshav Lakhotia's Website
-![keshavlakhotia.ml](http://keshavlakhotia.ml)
+Github repo for My website [http://keshavlakhotia.ml](http://keshavlakhotia.ml)
 
 
 ## How to get your own?
