@@ -24,12 +24,12 @@ if (isMobile) {
     $(".content").hover(
         function() {
             $('#tag').fadeOut(200, function() {
-                $(this).text("Student, Developer, Currently Rocking it at Brown University").fadeIn(200);
+                $(this).text("Student, Developer, Making Machine Learn").fadeIn(200);
             });
         },
         function() {
             $('#tag').fadeOut(200, function() {
-                $(this).text("@Keshav-cs").fadeIn(200);
+                $(this).text("Kingsmanvk").fadeIn(200);
             });
         }
     );
@@ -98,12 +98,12 @@ if (isMobile) {
     $(".content").hover(
         function() {
             $('#tag').fadeOut(200, function() {
-                $(this).text("Student, Developer, Currently exploring how Machine Learns").fadeIn(200);
+                $(this).text("Student, Developer, Making Machine Learn").fadeIn(200);
             });
         },
         function() {
             $('#tag').fadeOut(200, function() {
-                $(this).text("@Keshav-cs").fadeIn(200);
+                $(this).text("Kingsmanvk").fadeIn(200);
             });
         }
     );
