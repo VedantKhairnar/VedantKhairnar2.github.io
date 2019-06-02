@@ -1,7 +1,6 @@
-# Keshav-cs.github.io
+# vedantkhairnar.github.io
 ======================
 
-Github repo for My website [http://keshavlakhotia.ml](http://keshavlakhotia.ml)
 
 
 ## How to get your own?
